@@ -1,8 +1,6 @@
 # Hello-World
 Introduction
 
-Hey, my name is Diogo Matias and I'm 22 years old.
+Hey, my name is Diogo Matias and I'm 23 years old.
 
-Currently learning more about web development, know some html and css and basic javascript for now.
-Studied Informatic Engineer but didn't finish it, so I also do have a background in programming retaining some Java (know the paradigms of OOP). Programmed in C and python but didn't continue to practice it. As I said I'm more into web development right now.
-
+I'm actively looking for a job as a Front end developer. I have an unfinished degree in Informatics Engineering and two courses related to (not only) this area. I have solid knowledge of Html and Css and basic knowledge of Javascript, jQuery and ReactJS. I'm currently at Creatella's academy, had access to the Google Udacity Scholarship on the Mobile Web Specialist track and I'm also in three courses on udemy (one about React and Redux, other about Html, Css, Javascript, mongoDB and node.js and another one about node.js). As you may see my plans are about this area and I'm looking for an opportunity to evolve my skills in this area, until then I will learn more about this area anyway.
